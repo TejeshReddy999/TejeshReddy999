@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tejesh Reddy Mallampati
+# 👋 Hi There, I'm Tejesh Reddy Mallampati
 
 💼 **Full Stack Developer** specializing in building secure, scalable Android applications and backend services using **Java**, **Kotlin**, and **Spring Boot**. Proven track record delivering high-impact features to over **1 million users** in fast-paced environments.
 
