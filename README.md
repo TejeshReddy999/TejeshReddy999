@@ -8,7 +8,7 @@
 
 - **Backend:** Spring Boot, REST APIs, Microservices, Maven, Gradle, JUnit  
 - **Frontend:** Angular, HTML5, CSS3, TypeScript, Responsive UI Design  
-- **Mobile:** Android SDK, Jetpack, Retrofit, Dynamic Feature Modules  
+- **Mobile:** Android SDK, Jetpack, Retrofit, Kotlin, Dynamic Feature Modules  
 - **Tools & DevOps:** Git, Jenkins, Bitbucket, Firebase, Postman, Jira  
 - **Databases:** PostgreSQL, MySQL, H2  
 - **Cloud & Platforms:** AWS, Firebase
